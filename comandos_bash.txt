@@ -3,6 +3,3 @@ cd -> move entre diretórios
 pwd -> mostra diretório de trabalho
 cat -> exibe conteudo do arquivo
 rm -> remove arquivo ou diretorio
-git init . -> cria um repo git na pasta atual
-git add nome_arquivo -> adiciona arquivo para ser commitado
-git status -> mostra status do trabalho (de cada arquivo a ser commitado)
